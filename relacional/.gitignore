@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Oracle Wallet (no versionar certificados/archivos de conexión)
+wallet/
